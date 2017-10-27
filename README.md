@@ -8,4 +8,4 @@ The game is based on the TaraGame develop by Dijkstra and van Dijk. http://homep
 
 I doesnt understand the logic of the Tara game at all, probably the game logic is broken or maybe I'm not able yet to understand the rules with the poor description given in the webpage.
 
-If any world famous tara player walks arorund here, please take a minute and explain me how to play.
+If any world famous tara player walks arround here, please take a minute and explain me how to play.
